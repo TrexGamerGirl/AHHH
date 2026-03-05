@@ -1,0 +1,21 @@
+{
+  "name": "AHHH",
+  "displayName": "Themes_Repo",
+  "description": "Themes repo for themes!!!!",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.109.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Themes",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Themes-color-theme.json"
+      }
+    ]
+  }
+}
