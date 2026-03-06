@@ -1,9 +1,9 @@
 {
 	"name": "Themes",
 	"colors": {
-		"editor.background": "#263238",
-		"editor.foreground": "#eeffff",
-		"activityBarBadge.background": "#007acc",
+		"editor.background": "#b700ff",
+		"editor.foreground": "#00ffff",
+		"activityBarBadge.background": "#6a327b",
 		"sideBarTitle.foreground": "#bbbbbb"
 	},
 	"tokenColors": [
@@ -118,7 +118,7 @@
 				"string.other.link"
 			],
 			"settings": {
-				"foreground": "#f07178"
+				"foreground": "#00e5ff"
 			}
 		},
 		{
